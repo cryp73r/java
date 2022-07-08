@@ -2,5 +2,5 @@
 It includes codes of Advanced Java concepts like: Multithreading, AWT, Swing, JSP, etc
 
 ✅ Multithreading<br />
-✅ Enumeration
-✅ Autoboxing/Unboxing
+✅ Enumeration<br />
+✅ Autoboxing/Unboxing<br />
