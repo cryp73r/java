@@ -47,6 +47,7 @@ public class App {
     }
 }
 
+// Exclude extension class
 class OnlyExt implements FilenameFilter {
     String ext;
 
