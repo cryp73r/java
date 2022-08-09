@@ -5,4 +5,5 @@ It includes codes of Advanced Java concepts like: Multithreading, AWT, Swing, JS
 ✅ Enumeration<br />
 ✅ Autoboxing/Unboxing<br />
 ✅ File Handling<br />
-🟡 NIO<br />
+✅ NIO<br />
+🟡 Networking<br />
