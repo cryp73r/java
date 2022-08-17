@@ -1,2 +1,6 @@
+# VS Code files
+/.vscode/
+
+# Custom files
 /relevel/
 /inputest/
