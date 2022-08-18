@@ -7,4 +7,5 @@ It includes codes of Advanced Java concepts like: Multithreading, AWT, Swing, JS
 ✅ File Handling<br />
 ✅ NIO<br />
 ✅ Networking<br />
-🟡 Event Handling<br />
+✅ Event Handling<br />
+🟡 Introducing the AWT: Working with Windows, Graphics, and Text<br />
